@@ -13,3 +13,5 @@ let appleBananaOrange = "hi";
 console.log(apple);
 
 console.log(apple2)
+
+console.log("hello");
