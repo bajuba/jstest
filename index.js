@@ -15,3 +15,5 @@ console.log(apple);
 console.log(apple2)
 
 console.log("hello");
+
+let a = 1+1;
